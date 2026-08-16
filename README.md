@@ -1,7 +1,16 @@
 # Tahir Textile
 
-Premium multi-page textile showroom for Tahir Textile.
+This is a framework-free static website. Upload the contents of this folder to any standard web host—there is no install, build, or server step.
 
-Development imagery and product descriptions are editorial placeholders, not verified current inventory. Before publishing, confirm social URLs and replace product placeholders in `app/site.tsx`.
+Open `index.html` locally, or upload the complete folder while preserving its structure.
 
-Pages: Home, Collections, About, How to Order, Contact, and a reusable detail route at `/fabrics/ankara-01`.
+## Pages
+
+- `index.html`
+- `collections.html`
+- `about.html`
+- `how-to-order.html`
+- `contact.html`
+- `fabric-ankara-01.html`
+
+All styling is in `css/styles.css`, behavior is in `js/main.js`, and images are in `assets/images/`.
